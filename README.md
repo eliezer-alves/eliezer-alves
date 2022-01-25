@@ -15,15 +15,17 @@
    <summary> <samp>&#9776; <b>Languages and Frameworks:</b></samp></summary>
    <p align="center">
       <br>     
-      <a href="https://github.com/12161003677?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>     
-      <a href="https://github.com/12161003677?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     
-      <a href="https://github.com/12161003677?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="https://github.com/12161003677?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+      <a href="https://github.com/eliezer-alves?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>     
+      <a href="https://github.com/eliezer-alves?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     
+      <a href="https://github.com/eliezer-alves?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/eliezer-alves?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-alves&layout=compact&langs_count=7&theme=github_dark"/>
      <br>     
-    <img src="https://github-readme-stats.vercel.app/api?username=12161003677&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=eliezer-alves&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
     <br>     
-    <a href="https://github.com/12161003677?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>    
-     <a href="https://github.com/12161003677/12161003677" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/leoreisdias/leoreisdias?label=profile%20updated&style=flat-square"></a>  
+    <a href="https://github.com/eliezer-alves?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>    
+     <a href="https://github.com/eliezer-alves/eliezer-alves" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/leoreisdias/leoreisdias?label=profile%20updated&style=flat-square"></a>  
   </p>
   <p align="center">    
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     
@@ -33,3 +35,9 @@
     </a>  
   </p>
 </div>
+
+ <div>
+  <!-- <a href="https://github.com/eliezer-alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezer-alves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-alves&layout=compact&langs_count=7&theme=github_dark"/>
+</div> -->
