@@ -1,6 +1,6 @@
 ## Hi there, I am Eliezer 👋
 
-:computer: I'm Back-End Developer!
+:computer: I'm a backend developer, but I'm currently having an amazing experience with React JS!
 
 :house_with_garden: I’m from Brazil.
 
@@ -18,7 +18,7 @@
       <a href="https://github.com/eliezer-alves?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>     
       <a href="https://github.com/eliezer-alves?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     
       <a href="https://github.com/eliezer-alves?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="https://github.com/eliezer-alves?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    <a href="https://github.com/eliezer-alves?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3572A5?style=flat-square&logo=Typescript&logoColor=white"></a>
     <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-alves&layout=compact&langs_count=7&theme=github_dark"/>
      <br>     
