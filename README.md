@@ -15,8 +15,7 @@
    <summary> <samp>&#9776; <b>Languages and Frameworks:</b></samp></summary>
    <p align="center">
       <br>     
-      <a href="https://github.com/eliezer-alves?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>     
-      <a href="https://github.com/eliezer-alves?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     
+      <a href="https://github.com/eliezer-alves?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
       <a href="https://github.com/eliezer-alves?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://github.com/eliezer-alves?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3572A5?style=for-the-badge&logo=Typescript&logoColor=white"></a>
     <br>  
