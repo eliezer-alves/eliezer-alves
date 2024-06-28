@@ -1,6 +1,6 @@
 ## Hi there, I am Eliezer 👋
 
-:computer: I'm a backend developer, but I'm currently having an amazing experience with React JS!
+:computer: I'm a frontent developer!
 
 :house_with_garden: I’m from Brazil.
 
