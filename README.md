@@ -4,8 +4,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm currently reading A Brief History of Time.
-
 🏫: IFSULDEMINAS
 
 <a href = "mailto:eliezer.c.alves2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
