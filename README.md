@@ -1,6 +1,6 @@
 ## Hi there, I am Eliezer 👋
 
-:computer: I'm a frontent developer!
+:computer: I'm a full-stack developer!
 
 :house_with_garden: I’m from Brazil.
 
